@@ -1,0 +1,22 @@
+{
+    "name": "abdal/laravel-abdal-detector",
+    "description": "Find info about IP , OS and web browser from your client",
+    "type": "library",
+    "require": {
+        "php": ">=7.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Abdal\\LaravelAbdalDetector\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ebrahim Shafiei",
+            "email": "Prof.Shafiei@Gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
+
