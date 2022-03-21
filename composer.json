@@ -1,5 +1,5 @@
 {
-    "name": "abdal/laravel-abdal-detector",
+    "name": "abdal-security-agency/laravel-abdal-detector",
     "description": "Find info about IP , OS and web browser from your client",
     "type": "library",
     "require": {
