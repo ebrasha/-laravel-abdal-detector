@@ -39,7 +39,7 @@ Ebrahim Shafiei (EbraSha) (Ready to cooperate with international projects)
 
 
 ## License
-Abdal Map Tracker is open-source software licensed under the [MIT license.](https://choosealicense.com/licenses/mit/)
+Laravel Abdal Detector is open-source software licensed under the [MIT license.](https://choosealicense.com/licenses/mit/)
 
 
 ## ⚠️ Legal disclaimer ⚠️
