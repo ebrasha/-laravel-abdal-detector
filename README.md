@@ -6,7 +6,7 @@
 
 ## Made For
 
-Find info about IP , OS and web browser from your client.
+Find info about IP , OS and web browser from your client....
 
 **Requires**
 > laravel 5.* or above
